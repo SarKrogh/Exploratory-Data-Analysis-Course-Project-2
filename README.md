@@ -1,7 +1,4 @@
 # Exploratory-Data-Analysis-Course-Project-2
-============================================
-
-**NOTE: My work and answers to the questions are at the bottom of this document.**
 
 # Introduction
 
